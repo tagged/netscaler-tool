@@ -1,4 +1,4 @@
-# netsclaler-tool
+# netscaler-tool
 
 ## System Requirements
 *  Python >= 2.6 and Python < 3
